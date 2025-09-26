@@ -1,5 +1,5 @@
 ## Hi there 👋
-My name is Krish, currently a freshmen at Northeastern University with a plan to major in Computer Science all 4 years.
+My name is Krish, currently a Sophomore at Northeastern University majoring in Computer Science all 4 years.
 <!--
 **KrishSoni2/KrishSoni2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
